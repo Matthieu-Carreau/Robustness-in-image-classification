@@ -1,6 +1,6 @@
 # Robustness-in-image-classification
 
-This repository contains the report and the code for experiments that we made with Vincent Bardusco Project made with Vincent Bardusco in a project for the MVA course Geometric Data Analysis (https://www.jeanfeydy.com/Teaching/index.html).
+This repository contains the report and the code for experiments that we made with Vincent Bardusco during a project for the MVA course Geometric Data Analysis (https://www.jeanfeydy.com/Teaching/index.html).
 The goal is to study the robustness of image classifiers by analyzing the geometry and topology of decision regions, based on the three following articles:
 
 [1] Seyed-Mohsen Moosavi-Dezfooli, Alhussein Fawzi, Jonathan Uesato, and Pascal
